@@ -2,10 +2,11 @@
 
 ## Project made for the [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" certification
 
-##### Latest update: 20190213
 
 <p align="center"><img src="https://bigimage.png" alt="text")</p>
 
+
+##### Latest update: 20190213
 
 ## What it does
 
@@ -35,8 +36,7 @@
 
 ##### Directory structure
 
-
-
+## No contribution expected
 
 ## Licence
 
