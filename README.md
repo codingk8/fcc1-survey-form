@@ -38,8 +38,6 @@
 
 ## No contribution expected
 
-## Licence
-
 ## Author
 
 ## Acknowledgements & Resources
