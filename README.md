@@ -1,6 +1,6 @@
 # fcc1-survey-form
 
-## Project made for the [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" certification
+## Project made for [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" certification
 
 
 <p align="center"><img src="https://bigimage.png" alt="text")</p>
