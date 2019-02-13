@@ -2,8 +2,12 @@
 
 ## Project made for the [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" certification
 
+##### Latest update: 20190213
+
 <p align="center"><img src="https://bigimage.png" alt="text")</p>
 
+
+## What it does
 
 ##### [Project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
@@ -13,16 +17,25 @@
 
 ##### [See it live](#)
 
-## Behind the curtain
+## How it works
 
 ##### Built with:
-. xxx  
-. xxx  
-. xxx  
+* HTML
+* CSS
+* Flexbox
+* Google fonts
+* FontSquirrel for SaxMono font
+* FontAwesome icons
 
 ##### Requirements
 
 ##### Install
+
+##### Test
+
+##### Directory structure
+
+
 
 
 ## Licence
