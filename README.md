@@ -24,15 +24,9 @@
 * HTML
 * CSS
 * Flexbox
-* [Google fonts](https://fonts.google.com/) Lato
-* [Font Squirrel](https://www.fontsquirrel.com/) for SaxMono font
+* [Google fonts](https://fonts.google.com/) for Lato
+* [Font Squirrel](https://www.fontsquirrel.com/) for SaxMono
 * [Font Awesome](https://fontawesome.com/) icons
-
-##### Requirements
-
-##### Install
-
-##### Test
 
 ##### Directory structure
 
