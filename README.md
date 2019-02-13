@@ -1,2 +1,21 @@
 # fcc1-survey-form
-Project from freeCodeCamp Responsive Web Design Certification
+
+## Project made for the freeCodeCamp "Responsive Web Design" certification
+
+##### [Project original description is here](#)
+
+##### Personnal additionnal Users stories
+
+##### See ...
+
+##### Built with:
+. xxx
+. xxx
+. xxx
+
+
+## Licence
+
+## Acknowledgements
+
+---
