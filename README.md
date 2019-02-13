@@ -42,4 +42,6 @@
 
 ## Acknowledgements & Resources
 
+* [freeCodeCamp Deisgn Style Guide](https://design-style-guide.freecodecamp.org/)
+
 ---
