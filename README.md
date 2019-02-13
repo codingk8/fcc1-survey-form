@@ -23,9 +23,9 @@
 * HTML
 * CSS
 * Flexbox
-* Google fonts
-* FontSquirrel for SaxMono font
-* FontAwesome icons
+* [Google fonts](https://fonts.google.com/) Lato
+* [Font Squirrel](https://www.fontsquirrel.com/) for SaxMono font
+* [Font Awesome](https://fontawesome.com/) icons
 
 ##### Requirements
 
