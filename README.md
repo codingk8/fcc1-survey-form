@@ -24,7 +24,8 @@
 * HTML
 * CSS
 * Flexbox
-* Bootstrap
+* [Bootstrap](#)
+* [jQuery](#)
 * [Google fonts](https://fonts.google.com/) for Lato
 * [Font Squirrel](https://www.fontsquirrel.com/) for SaxMono
 * [Font Awesome](https://fontawesome.com/) icons
