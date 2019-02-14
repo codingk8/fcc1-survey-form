@@ -12,7 +12,7 @@
 
 ##### [Project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
-##### Personnal additionnal Users stories
+##### Personnal additionnal Users stories: responsive
 
 ##### Functionnalities (4 to 10 points)
 
@@ -24,6 +24,7 @@
 * HTML
 * CSS
 * Flexbox
+* Bootstrap
 * [Google fonts](https://fonts.google.com/) for Lato
 * [Font Squirrel](https://www.fontsquirrel.com/) for SaxMono
 * [Font Awesome](https://fontawesome.com/) icons
