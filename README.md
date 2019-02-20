@@ -3,7 +3,7 @@
 ## Project made for [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" certification
 
 
-<p align="center"><img src="https://bigimage.png" alt="text")</p>
+<p align="center"><img src="https://bigimage.png" alt="screen copy to come")</p>
 
 
 ##### Latest update: 20190213
