@@ -46,7 +46,7 @@
 * CSS
 * Flexbox
 * [Bootstrap](https://getbootstrap.com/)
-* [jQuery](#)
+* [jQuery](https://jquery.com/)
 * JavaScript
 * [Google fonts](https://fonts.google.com/) for Lato
 * [Font Squirrel](https://www.fontsquirrel.com/) for SaxMono
