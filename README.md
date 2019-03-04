@@ -8,7 +8,9 @@
 
 ##### Latest update: 20190304
 
-## What this project does
+## The project
+
+### What this project does
 
 ##### Project users stories:
 
@@ -37,9 +39,7 @@
 
 ##### Functionnalities (4 to 10 points)
 
-##### [See the project live](#)
-
-## How the project works
+### How the project works
 
 ##### Built with:
 * HTML
@@ -54,21 +54,29 @@
 
 ##### Directory structure
 
+### [See the project live](#)
+
 ---
 
 ## General informations, disclaimers, ackowledgements...
 
-### Author
+## Author
 
 [Codingk8](https://github.com/codingk8)
 
+## Open-source & contributions
+
 ### This is not an open-source project - No contribution expected
+
+## Licence
 
 ### No licence - Please contact me before re-using part of this code
 
+## Disclaimers
+
 ### Disclaimer - If you're a freeCodeCamp student, please use this project as an inspiration but write your own code. It's what will make you a better developer :wink:
 
-### Acknowledgements & Resources
+## Acknowledgements & Resources
 
 * [freeCodeCamp Design Style Guide](https://design-style-guide.freecodecamp.org/)
 
