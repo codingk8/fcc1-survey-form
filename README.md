@@ -35,7 +35,7 @@
 
 ##### Additionnal Users stories: 
 [x] full responsive  
-[x] extended accessibility
+[x] extended accessibility  
 <br>
 
 ### How the project works
@@ -62,7 +62,7 @@
 
 ## Author
 
-[Codingk8](https://github.com/codingk8)
+[Codingk8](https://github.com/codingk8)  
 <br>
 
 ## Open-source & contributions
