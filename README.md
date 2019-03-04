@@ -13,7 +13,7 @@
 ##### [Project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
 ##### Personnal additionnal Users stories: 
-[x] full responsive
+[x] full responsive  
 [x] extended accessibility
 
 ##### Functionnalities (4 to 10 points)
