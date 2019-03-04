@@ -6,13 +6,16 @@
 <p align="center"><img src="https://bigimage.png" alt="screen copy to come")</p>
 
 
-##### Latest update: 20190213
+##### Latest update: 20190304
 
 ## What it does
 
-##### [Project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+##### Project users stories
 
-##### Personnal additionnal Users stories: 
+
+[Project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
+##### Additionnal Users stories: 
 [x] full responsive  
 [x] extended accessibility
 
@@ -35,11 +38,15 @@
 
 ##### Directory structure
 
-## This is not an open-source project - No contribution expected
-
 ## Author
 
 [Codingk8(https://github.com/codingk8)
+
+## This is not an open-source project - No contribution expected
+
+## No licence - Please contact me before re-using part of this code
+
+## Disclaimer - If you're a freeCodeCamp student, please use this project as an inspiration but write your own code. It's what will make you a better developer :wink:
 
 ## Acknowledgements & Resources
 
