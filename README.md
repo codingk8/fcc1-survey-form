@@ -36,8 +36,7 @@
 ##### Additionnal Users stories: 
 [x] full responsive  
 [x] extended accessibility
-
-##### Functionnalities (4 to 10 points)
+<br>
 
 ### How the project works
 
@@ -53,31 +52,36 @@
 * [Font Awesome](https://fontawesome.com/) icons
 
 ##### Directory structure
+<br>
 
 ### [Click here to see the project live](#)
 
 ---
 
-## General informations, disclaimers, ackowledgements...
+## General informations, disclaimer, ackowledgements...
 
 ## Author
 
 [Codingk8](https://github.com/codingk8)
+<br>
 
 ## Open-source & contributions
 
 ### This is not an open-source project - No contribution expected
+<br>
 
 ## Licence
 
 ### No licence - Please contact me before re-using part of this code
+<br>
 
-## Disclaimers
+## Disclaimer
 
-### Disclaimer - If you're a freeCodeCamp student, please use this project as an inspiration but write your own code. It's what will make you a better developer :wink:
+### If you're a freeCodeCamp student, please use this project as an inspiration but write your own code. It's what will make you a better developer :wink:
+<br>
 
 ## Acknowledgements & Resources
 
-* [freeCodeCamp Design Style Guide](https://design-style-guide.freecodecamp.org/)
+[freeCodeCamp Design Style Guide](https://design-style-guide.freecodecamp.org/)
 
 ---
