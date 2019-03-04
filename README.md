@@ -55,6 +55,7 @@
 <br>
 
 ### [Click here to see the project live](#)
+<br>
 
 ---
 
@@ -82,6 +83,7 @@
 
 ## Acknowledgements & Resources
 
-[freeCodeCamp Design Style Guide](https://design-style-guide.freecodecamp.org/)
+[freeCodeCamp Design Style Guide](https://design-style-guide.freecodecamp.org/)  
+<br>
 
 ---
