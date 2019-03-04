@@ -12,7 +12,9 @@
 
 ##### [Project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
-##### Personnal additionnal Users stories: responsive
+##### Personnal additionnal Users stories: 
+[x] full responsive
+[x] extended accessibility
 
 ##### Functionnalities (4 to 10 points)
 
@@ -33,9 +35,11 @@
 
 ##### Directory structure
 
-## No contribution expected
+## This is not an open-source project - No contribution expected
 
 ## Author
+
+[Codingk8(https://github.com/codingk8)
 
 ## Acknowledgements & Resources
 
