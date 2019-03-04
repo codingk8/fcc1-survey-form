@@ -1,6 +1,6 @@
 <h1 align="center">fcc1-survey-form</h1>
 
-<h2 align="center">Project made for [freeCodeCamp](https://www.freecodecamp.org/)<br>"Responsive Web Design" certification</h2>
+<h2 align="center">Project made for <a href="https://www.freecodecamp.org/">freeCodeCamp</a><br>"Responsive Web Design" certification</h2>
 
 
 <p align="center"><img src="https://bigimage.png" alt="screen copy to come")</p>
@@ -39,7 +39,7 @@
 
 ## Author
 
-[Codingk8(https://github.com/codingk8)
+[Codingk8](https://github.com/codingk8)
 
 ## This is not an open-source project - No contribution expected
 
