@@ -37,7 +37,7 @@
 
 ##### Functionnalities (4 to 10 points)
 
-##### [See it live](#)
+##### [See the project live](#)
 
 ## How the project works
 
@@ -53,6 +53,10 @@
 * [Font Awesome](https://fontawesome.com/) icons
 
 ##### Directory structure
+
+---
+
+## General informations, disclaimers, ackowledgements...
 
 ### Author
 
