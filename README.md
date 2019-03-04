@@ -77,7 +77,8 @@
 
 ## Disclaimer
 
-### If you're a freeCodeCamp student, please use this project as an inspiration but write your own code. It's what will make you a better developer :wink:
+### If you're a freeCodeCamp student, please use this project as an inspiration but write your own code.  
+### It's what will make you a better developer :wink:
 <br>
 
 ## Acknowledgements & Resources
