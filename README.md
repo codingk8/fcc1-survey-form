@@ -12,7 +12,7 @@
 
 ##### Project users stories
 
-[Project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+##### [Project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
 ##### Additionnal Users stories: 
 [x] full responsive  
@@ -37,17 +37,17 @@
 
 ##### Directory structure
 
-## Author
+### Author
 
 [Codingk8](https://github.com/codingk8)
 
-## This is not an open-source project - No contribution expected
+### This is not an open-source project - No contribution expected
 
-## No licence - Please contact me before re-using part of this code
+### No licence - Please contact me before re-using part of this code
 
-## Disclaimer - If you're a freeCodeCamp student, please use this project as an inspiration but write your own code. It's what will make you a better developer :wink:
+### Disclaimer - If you're a freeCodeCamp student, please use this project as an inspiration but write your own code. It's what will make you a better developer :wink:
 
-## Acknowledgements & Resources
+### Acknowledgements & Resources
 
 * [freeCodeCamp Design Style Guide](https://design-style-guide.freecodecamp.org/)
 
