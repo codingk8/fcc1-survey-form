@@ -54,7 +54,7 @@
 
 ##### Directory structure
 
-### [See the project live](#)
+### [Click here to see the project live](#)
 
 ---
 
