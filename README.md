@@ -1,6 +1,6 @@
-# fcc1-survey-form
+<h1 align="center">fcc1-survey-form</h1>
 
-## Project made for [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" certification
+<h2 align="center">Project made for [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" certification</h2>
 
 
 <p align="center"><img src="https://bigimage.png" alt="screen copy to come")</p>
@@ -8,10 +8,9 @@
 
 ##### Latest update: 20190304
 
-## What it does
+## What this project does
 
 ##### Project users stories
-
 
 [Project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
