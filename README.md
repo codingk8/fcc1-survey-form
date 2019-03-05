@@ -49,10 +49,10 @@
 * [Font Squirrel](https://www.fontsquirrel.com/) for SaxMono
 * [Font Awesome](https://fontawesome.com/) icons
 
-##### Directory structure
+##### Directory structure (to come)
 <br>
 
-### [Click here to see the project live](#)
+### [Click here to see the project live](https://codingk8.github.io/freeCodeCamp-Paris-meetups-survey-form/)
 <br>
 
 ---
