@@ -1,0 +1,208 @@
+<!-- Made with code and care in Paris by Codingk8 - 2019 - Twitter: @codingk8
+
+Project made for the freeCodeCamp curriculum, "Responsive Web Design" Certification
+Project #2 - Survey form -->
+
+
+<!DOCTYPE html>
+
+    <html lang="en" dir="auto">
+
+        <head>
+            <meta charset="utf-8">
+
+            <title>freeCodeCamp - freeCodeCamp Paris - Survey Form</title>
+            <meta name="author"       content="Codingk8" />
+            <meta name="description"  content="freeCodeCamp - Responsive Web Design Certification - Project #1-2, made by Codingk8" />
+            <meta name="keywords"     content="freeCodeCamp, certification, 
+                            responsive, web design, project, html, css, flexbox, bootstrap, javascript, jquery" />
+            
+            <!-- Import Google fonts -->
+            <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext" rel="stylesheet" />
+            
+            <!-- Favicon links -->
+            <link rel="icon" type="image/png" href="assets/favicon/favicon-32x32.png" />
+            <link rel="shortcut icon", type="image/x-icon", href="assets/favicon/favicon.ico" />
+            
+            <!-- Responsive viewport - ALWAYS CHECK ON BOOTSTRAP SITE 20181201 -->
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            
+            <!-- Import Bootstrap CDN - ALWAYS CHECK THE VERSION 20190214 - Put at the bottom of the file -->
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
+                integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+            
+            <!-- Import jQuery CDN is at the bottom of the file -->
+            
+            <!-- Import Font Awesome CDN-->
+            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" 
+                integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" />
+
+            <!-- Local stylesheet link -->
+            <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+
+        </head>
+    
+        <body id="container" class="container-fluid">
+
+            <header id="header">
+                <nav id="nav">
+                    <a href="https://www.freecodecamp.org/"><img src="https://s3.amazonaws.com/freecodecamp/freecodecamp_logo.svg" alt="learn to code javascript at freeCodeCamp logo" class="img-fluid nav-logo"></a>
+                </nav>
+                <div id="header-text">
+                    <h1 id="title">freeCodeCamp Paris<br>Meetup Feedback Form</h1>
+                </div>
+            </header>
+
+            <main id="main-content" class="container-fluid">
+
+                <p id="description"><strong>freeCodeCamp Paris organizes monthly coding sessions 👩‍💻 👨‍💻<br>
+                        You've recently attended one of our meetups, tell us what you think!</strong></p>
+
+                <form id="survey-form" method="POST" action="" enctype="application/x-www-form-urlencoded" novalidate>
+                    <fieldset class="fieldset">
+                        <legend>Tell us more about you</legend>
+                        <div class="row">
+                            <div class="form-group col col-12 col-sm-12 col-md-6">
+                                <label for="first-name-label" id="first-name-label">First name: *</label>
+                                <input class="form-control" type="text" name="first-name-label" id="first-name" placeholder="Insert your first name" required>
+                            </div>
+                            <div class="form-group col col-12 col-sm-12 col-md-6">
+                                <label for="name-label" id="name-label">Last name: *</label>
+                                <input id="name" class="form-control" type="text" name="name-label" placeholder="Insert your last name" required>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col col-12 col-sm-12 col-md-6">
+                                <label for="email-label" id="email-label" >Email: *</label>
+                                <input id="email" type="email" class="form-control" name="email-label" placeholder="Insert your email address (we promise to keep it secret 😉)" required>
+                            </div>
+                            <div class="form-group col col-12 col-sm-12 col-md-6">
+                                <label for="certifications-label" id="certification-label">How many fCC certifications did you get so far? *</label>
+                                <select id="dropdown" class="form-control" name="certifications-label" id="certifications" required>
+                                    <option value="0">0</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                </select>
+                            </div>
+                        </div>
+                        <p class="small">*Required fields</p>
+                    </fieldset>
+
+                    <fieldset class="fieldset">
+                        <legend>How did you like the latest event you attended?</legend>
+                        <div class="row">
+                            <div class="form-group col col-12 col-sm-12 col-md-6">
+                                <label for="number-label" id="number-label">How many freeCodeCamp Paris events have you attended?</label>
+                                <input id="number" type="number" class="form-control" name="attended" placeholder="Events number" required min="0" max="10">
+                            </div>
+                            <div class="form-group col col-12 col-sm-12 col-md-6">
+                                <label for="latest-label">When was the latest freeCodeCamp Paris event you attended?</label>
+                                <input class="form-control" type="date" name="latest" id="latest-label" id="latest">
+                            </div>
+                        </div>
+                        <br>
+                        <p>What's your opinion about this event?</p>
+                        <div id="opinion" class="row">
+                            <div class="col col-12 col-sm-12 col-md-12 col-lg-4">
+                                <input name="satisfaction" class="radio" type="radio" id="good" value="good">
+                                <label for="good">It was very good 😃 👍 🎉</label>
+                            </div>
+                            <div class="col col-12 col-sm-12 col-md-12 col-lg-4">
+                                <input name="satisfaction" class="radio" type="radio" id="soso" value="soso">
+                                <label for="soso">So so 😐 😒 🤔</label>
+                            </div>
+                            <div class="col col-12 col-sm-12 col-md-12 col-lg-4">
+                                <input name="satisfaction" class="radio" type="radio" id="bad" value="bad">
+                                <label for="bad">I didn't like it 😕 😤 👎</label>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="form-group">
+                            <label for="opinion">What should we change? What should we keep?</label>
+                            <textarea class="form-control" name="opinion" id="satisfaction" rows="10" cols="50" maxlength="2000">(2000 characters)</textarea>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="fieldset">
+                        <legend>What other activities would you like to find?</legend>
+                            <div id="possibleActivities">
+                                <p class="form-group">Other possible activities:</p>
+                                <div id="activities" class="form-group">
+                                    <label for="pres" class="checkbox"><input value="pres" id="pres" type="checkbox" name="othermeetups"> Certification Projects Presentations</label>
+                                    <label for="paire" class="checkbox"><input value="pair" id="paire" type="checkbox" name="othermeetups"> Pair-programming</label>
+                                    <label for="mentoring" class="checkbox"><input value="mentoring" id="mentoring" type="checkbox" name="othermeetups"> Mentoring</label>
+                                    <label for="oshowto" class="checkbox"><input value="oshowto" id="oshowto" type="checkbox" name="othermeetups"> Open source "how to" Presentations</label>
+                                    <label for="ossessions" class="checkbox"><input value="ossessions" id="ossessions" type="checkbox" name="othermeetups"> Open source coding Sessions</label>
+                                    <label for="jobdating"class="checkbox"><input value="jobdating" id="jobdating" type="checkbox" name="othermeetups"> Job Dating Sessions</label>
+                                    <label for="business" class="checkbox"><input value="business" id="business" type="checkbox" name="othermeetups"> Business Presentations</label>
+                                </div>
+                            </div>
+                            <br>
+                            <div class="form-group">
+                                <label for="opinion2">Do you have other ideas or suggestions?</label>
+                                <textarea class="form-control" name="opinion2" id="suggestions" rows="10" cols="50" maxlength="1000">(1000 characters)</textarea>
+                            </div>
+                    </fieldset>
+
+                    <div id="thanks">
+                        <button id="submit" type="submit" class="btn btn-dark btn-lg" name="submit" value="submit">This button submits the form</button>
+                        <p id="thanks-text">Thank you for sharing your opinion. We'll be glad to read you!</p>
+                    </div>
+
+                </form>
+            
+                <article id="contribute" class="article">
+                    <p><strong>freeCodeCamp is a donor-supported nonprofit<br><a href="https://donate.freecodecamp.org" class="link"><br>
+                        Will you become a supporter 💰</a>and help the community reach its goal of 10,000 monthly supporters?</strong><p>
+                </article>
+
+                <article id="knowmore" class="article">
+                    <p class="text-knowmore">Know more 💡 about freeCodeCamp Paris
+                    <a href="https://www.meetup.com/fr-FR/freeCodeCampParis/"><i class="fab fa-meetup kmicon"></i></a>
+                    <a href="https://twitter.com/freeCodeCampPAR"><i class="fab fa-twitter-square kmicon"></i></a></p>
+                </article>
+
+                <!-- The back-to-top icon -->
+                <a href="#"><i id="btticon" class="far fa-caret-square-up btticon"></i></a>
+            
+                <!-- Footer & credits section -->
+                <footer>
+                    <p><a class="link" href="https://github.com/codingk8/fcc1-survey-form" target="_blank">About</a>   
+                        |   Made with code 👩🏻‍💻 and care ✨in Paris, France   
+                        |   By<a class="link" href="https://github.com/codingk8" target="_blank"> Codingk8</a> 
+                        for <a href="https://www.freecodecamp.org"><img class="img-fluid" src="assets/images/freeCodeCamp150.jpg" alt="freeCodeCamp logo small size" id="minilogo"></a> - 2019<p>
+                    <p><span id="gdpr">GDPR disclaimer</span>: this project does not work for real. No personal data are collected from it.</p>
+                    <p>Visual elements, logos and brand elements rights and copyrights belong to 
+                        <a href="https://www.freecodecamp.org"><img class="img-fluid" src="assets/images/freeCodeCamp150.jpg" alt="freeCodeCamp logo small size" id="minilogo"></a></p>
+                </footer>
+
+            </main>
+
+
+            <!-- Import jQuery CDN - ALWAYS CHECK THE VERSION - From Bootstrap 20190214 -->
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+                integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" 
+                integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" 
+                integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+            
+            <!-- Import jQuery CDN from jQuery -->
+            <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+            <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    
+            <!-- Import js scripts -->
+            <script type="text/javascript" src="script.js"></script>  
+
+            <!-- Import freeCodeCamp test link script
+            <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script> -->
+        
+        </body>
+
+    </html>
+
+<!-- End of HTML file :-) -->
