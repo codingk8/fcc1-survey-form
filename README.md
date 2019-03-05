@@ -6,8 +6,6 @@
 <p align="center"><img src="https://github.com/codingk8/freeCodeCamp-Paris-meetups-survey-form/blob/master/assets/readme/20190305_codingk8_fccp_survey_form_validated_screenshot.png" alt="freeCodeCamp Paris meetups Survey form" width="1650px"></p>
 
 
-##### Latest update: 20190305
-
 ## The project
 
 ### What this project does
@@ -59,7 +57,7 @@
 
 ---
 
-## General informations, disclaimer, ackowledgements...
+## General informations, Disclaimers & Ackowledgements
 
 ## Author
 
@@ -76,14 +74,26 @@
 ### No licence - Please contact me before re-using part of this code
 <br>
 
-## Disclaimer
+## Academic Honesty Disclaimer
 
-### If you're a freeCodeCamp student, please use this project as an inspiration but write your own code.<br>It's what will make you a better developer :wink:
+### If you're a freeCodeCamp student, please use this project as an inspiration but write your own code.<br>It's what will make us all better developers :wink:
+<br>
+
+## GDPR Disclaimer
+
+### This project does not work for real. No personal data are collected from it.
+<br>
+
+## Intellectual property and copyrights Disclaimer
+
+### Visual elements, logos and brand elements rights and copyrights belong to [freeCodeCamp](https://www.freecodecamp.org).
 <br>
 
 ## Acknowledgements & Resources
 
 [freeCodeCamp Design Style Guide](https://design-style-guide.freecodecamp.org/)  
 <br>
+
+##### Latest update: 20190305
 
 ---
