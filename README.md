@@ -3,10 +3,10 @@
 <h2 align="center">Project made for <a href="https://www.freecodecamp.org/">freeCodeCamp</a><br>"Responsive Web Design" certification</h2>
 
 
-<p align="center"><img src="https://bigimage.png" alt="screen copy to come")</p>
+<p align="center"><img src="https://github.com/codingk8/freeCodeCamp-Paris-meetups-survey-form/blob/master/assets/readme/20190305_codingk8_fccp_survey_form_validated_screenshot.png" alt="freeCodeCamp Paris meetups Survey form" width="1650px"></p>
 
 
-##### Latest update: 20190304
+##### Latest update: 20190305
 
 ## The project
 
