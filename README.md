@@ -1,4 +1,4 @@
-<h1 align="center">fcc1-survey-form</h1>
+<h1 align="center">freeCodeCamp Paris meetups - Survey form</h1>
 
 <h2 align="center">Project made for <a href="https://www.freecodecamp.org/">freeCodeCamp</a><br>"Responsive Web Design" certification</h2>
 
