@@ -5,6 +5,7 @@
 
 <p align="center"><img src="https://github.com/codingk8/freeCodeCamp-Paris-meetups-survey-form/blob/master/assets/readme/20190305_codingk8_fccp_survey_form_validated_screenshot.png" alt="freeCodeCamp Paris meetups Survey form" width="1650px"></p>
 
+---
 
 ## The project
 
@@ -90,6 +91,8 @@
 
 [freeCodeCamp Design Style Guide](https://design-style-guide.freecodecamp.org/)  
 <br>
+
+---
 
 ##### Latest update: 20190311
 
