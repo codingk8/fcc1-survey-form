@@ -10,7 +10,7 @@
 
 ### What this project does
 
-##### Project users stories:
+##### Project original Users stories:
 
 1. I can see a title with `id="title"` in H1 sized text
 1. I can see a short explanation with `id="description"` in P sized text
@@ -29,7 +29,7 @@
 1. Inside the form element, I am presented with a `textarea` at the end for additional comments
 1. Inside the form element, I am presented with a button with `id="submit"` to submit all my inputs
 
-##### [See project original description is here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+##### [See project original description here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
 ##### Additionnal Users stories: 
 [x] full responsive  
@@ -48,9 +48,6 @@
 * [Google fonts](https://fonts.google.com/) for Lato
 * [Font Squirrel](https://www.fontsquirrel.com/) for SaxMono
 * [Font Awesome](https://fontawesome.com/) icons
-
-##### Directory structure (to come)
-<br>
 
 ### [Click here to see the project live](https://codingk8.github.io/freeCodeCamp-Paris-meetups-survey-form/)
 <br>
@@ -94,6 +91,6 @@
 [freeCodeCamp Design Style Guide](https://design-style-guide.freecodecamp.org/)  
 <br>
 
-##### Latest update: 20190305
+##### Latest update: 20190311
 
 ---
