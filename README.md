@@ -35,7 +35,6 @@
 #### Additionnal Users stories: 
 - [x] full responsive  
 - [x] extended accessibility  
-<br>
 
 ### How the project works
 
