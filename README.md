@@ -33,8 +33,8 @@
 ##### [See project original description here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
 #### Additionnal Users stories: 
-[x] full responsive  
-[x] extended accessibility  
+- [x] full responsive  
+- [x] extended accessibility  
 <br>
 
 ### How the project works
