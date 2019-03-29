@@ -73,7 +73,7 @@
 
 ## Academic Honesty Disclaimer
 
-### If you're a freeCodeCamp student, please use this project as an inspiration but write your own code.<br>It's what will make us all better developers :wink:
+### If you're a freeCodeCamp student, please use this project as an inspiration and write your own code.<br>It's what makes us all better developers :wink:
 <br>
 
 ## GDPR Disclaimer
