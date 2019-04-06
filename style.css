@@ -250,12 +250,12 @@ a.link:hover {
     text-decoration: none;
 }
 
-#minilogo {
+.minilogo {
     max-width: 100%;
     height: auto;
 }
 
-#minilogo:hover {
+.minilogo:hover {
     opacity: 0.5;
 }
 
